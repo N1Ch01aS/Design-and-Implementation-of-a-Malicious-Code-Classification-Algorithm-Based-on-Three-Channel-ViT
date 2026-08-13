@@ -1,0 +1,1 @@
+pip install timm pandas scikit-learn pillow numpy tqdm matplotlib seaborn
